@@ -9,8 +9,8 @@
 	<name>ROOT</name>
 
 	<modules>
-		<module>../Apple</module>
 		<module>../Laptop</module>
+		<module>../Apple</module>
 	</modules>
       <distributionManagement>
 		<repository>
